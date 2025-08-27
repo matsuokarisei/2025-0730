@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vantan\\practice 0730~\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{085B88B4-E922-3856-057F-EFE8E2624F90}|Assembly-CSharp.csproj|c:\\users\\vantan\\practice 0730~\\assets\\script\\scriptb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085B88B4-E922-3856-057F-EFE8E2624F90}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scriptb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085B88B4-E922-3856-057F-EFE8E2624F90}|Assembly-CSharp.csproj|c:\\users\\vantan\\practice 0730~\\assets\\script\\scripta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085B88B4-E922-3856-057F-EFE8E2624F90}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scripta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085B88B4-E922-3856-057F-EFE8E2624F90}|Assembly-CSharp.csproj|c:\\users\\vantan\\practice 0730~\\assets\\script\\se.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085B88B4-E922-3856-057F-EFE8E2624F90}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\se.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085B88B4-E922-3856-057F-EFE8E2624F90}|Assembly-CSharp.csproj|C:\\Users\\vantan\\practice 0730~\\assets\\script\\bgmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085B88B4-E922-3856-057F-EFE8E2624F90}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bgmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085B88B4-E922-3856-057F-EFE8E2624F90}|Assembly-CSharp.csproj|C:\\Users\\vantan\\practice 0730~\\assets\\script\\fademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085B88B4-E922-3856-057F-EFE8E2624F90}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\fademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScriptB.cs",
+              "DocumentMoniker": "C:\\Users\\vantan\\practice 0730~\\Assets\\Script\\ScriptB.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ScriptB.cs",
+              "ToolTip": "C:\\Users\\vantan\\practice 0730~\\Assets\\Script\\ScriptB.cs",
+              "RelativeToolTip": "Assets\\Script\\ScriptB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T02:45:38.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScriptA.cs",
+              "DocumentMoniker": "C:\\Users\\vantan\\practice 0730~\\Assets\\Script\\ScriptA.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ScriptA.cs",
+              "ToolTip": "C:\\Users\\vantan\\practice 0730~\\Assets\\Script\\ScriptA.cs",
+              "RelativeToolTip": "Assets\\Script\\ScriptA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T02:44:01.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SE.cs",
+              "DocumentMoniker": "C:\\Users\\vantan\\practice 0730~\\Assets\\Script\\SE.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SE.cs",
+              "ToolTip": "C:\\Users\\vantan\\practice 0730~\\Assets\\Script\\SE.cs",
+              "RelativeToolTip": "Assets\\Script\\SE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T02:19:11.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BGMManager.cs",
+              "DocumentMoniker": "C:\\Users\\vantan\\practice 0730~\\Assets\\Script\\BGMManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BGMManager.cs",
+              "ToolTip": "C:\\Users\\vantan\\practice 0730~\\Assets\\Script\\BGMManager.cs",
+              "RelativeToolTip": "Assets\\Script\\BGMManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T01:55:27.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FadeManager.cs",
+              "DocumentMoniker": "C:\\Users\\vantan\\practice 0730~\\Assets\\Script\\FadeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\FadeManager.cs",
+              "ToolTip": "C:\\Users\\vantan\\practice 0730~\\Assets\\Script\\FadeManager.cs",
+              "RelativeToolTip": "Assets\\Script\\FadeManager.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowDkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T00:59:45.928Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
